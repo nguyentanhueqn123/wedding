@@ -156,24 +156,6 @@ header .navbar a:hover{
   padding-bottom: 50px;
 }
 
-/* .swiper-slide {
-  background-position: center;
-  background-size: cover;
-  width: 200px;
-  height: 300px;
-} */
-
-/* .swiper-slide img {
-  display: block;
-  width: 100%;
-} */
-
-/* .vendor .box-container{
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-wrap: wrap;
-} */
 
 .vendor .box-container .box{
 
@@ -358,7 +340,6 @@ header .navbar a:hover{
   display: block;
   padding: 0.5rem 0;
   color: #2B3467;
-  /* font-size: 1.5rem; */
 
 }
 
@@ -537,8 +518,6 @@ header .navbar a:hover{
   margin-bottom: 20px;
 }
 .num {
-  /* background-color: var(--color-glass); */
-  /* backdrop-filter: blur(12px); */
   height: 100%;
   width: 100%;
   display: grid;
